@@ -1,1 +1,1 @@
-This repository contains my pet-projects 
+This repository contains my own-projects 
